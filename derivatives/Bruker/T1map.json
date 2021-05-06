@@ -1,0 +1,26 @@
+{
+  "Modality": "MR",
+  "Manufacturer": "Bruker",
+  "InstitutionName": "Western",
+  "InstitutionalDepartmentName": "CFMM",
+  "PatientPosition": "HFS",
+  "SoftwareVersions": "ParaVision_6.0.1_xtip_6.0.1",
+  "MRAcquisitionType": "2D",
+  "SeriesDescription": "Parametric_image_for_T1_saturation_recovery_produced_from_opt_P",
+  "ProtocolName": "T1map_RARE",
+  "ImageType": ["DERIVED", "PRIMARY", "NON", "PARALLEL", "NONE"],
+  "RawImage": false,
+  "SliceThickness": 3,
+  "CoilString": "unknown",
+  "ReconMatrixPE": 128,
+  "ImageOrientationPatientDICOM": [
+    1,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "ConversionSoftware": "dcm2niix",
+  "ConversionSoftwareVersion": "v1.0.20210317"
+}

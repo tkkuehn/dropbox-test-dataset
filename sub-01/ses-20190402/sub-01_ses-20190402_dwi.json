@@ -1,0 +1,7 @@
+{
+  "ScanningSequence": "SE_GR_EP",
+  "SequenceVariant": "SK_SS_SP",
+  "PercentPhaseFOV": 100,
+  "PixelBandwidth": 5000,
+  "ConversionSoftwareVersion": "v1.0.20181125  (JP2:OpenJPEG) (JP-LS:CharLS) GCC5.5.0"
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "3AM Print Parameter Phantom Masks",
+  "BIDSVersion": "1.4.1",
+  "DatasetType": "derivative",
+  "Authors": [
+    "Farah Mushtaha",
+    "Tristan Kuehn",
+    "Corey Baron",
+    "Ali Khan"
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "Manual",
+      "Description": "Masks were drawn by hand to avoid the edges of the phantoms and any air bubbles in the phantoms."
+    }
+  ]
+}

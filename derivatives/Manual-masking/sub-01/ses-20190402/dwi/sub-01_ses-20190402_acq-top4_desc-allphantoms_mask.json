@@ -1,0 +1,6 @@
+{
+  "Description": "Mask of all 4 phantoms in the top4 acquisition",
+  "RawSources": [
+    "sub-01/ses-20190402/dwi/sub-01_ses-20190402_acq-top4_dwi.nii.gz"
+  ]
+}

@@ -1,0 +1,25 @@
+# 3AM print parameter phantoms
+
+This dataset contains three sessions of diffusion-weighted images and one session of T1 and T2 maps of a set of eight 3D-printed axon-mimetic (3AM) phantoms (see https://doi.org/10.1101/2020.07.02.185397). The eight phantoms were produced according to the 3AM phantom production protocol version 1.0.0, but with the printing parameters shown in Table 1 changed relative to the nominal values to characterize the effect of those parameters on diffusion properties.
+
+Each session in this dataset is composed of two acquisitions, one covering the bottom four phantoms in the test tube, and one covering the top four phantoms in the test tube. The images contain one z-slice per phantom, and the top-most phantom in each acquisition is at z-index 0.
+
+From top to bottom, the phantoms (identified by their deviations from nominal 3D print parameters) are arranged in the test tube as follows:
+
+1. High (235 degrees Celsius) printing temperature
+    - acq-top4, z-slice 0
+2. Low (215 degrees Celsius) printing temperature
+    - acq-top4, z-slice 1
+3. High (0.14 mm) layer thickness
+    - acq-top4, z-slice 2
+4. Low (0.06 mm) layer thickness
+    - acq-top4, z-slice 3
+5. High (40 mm/s) printing speed
+    - acq-bottom4, z-slice 0
+6. Low (20 mm/s) printing speed
+    - acq-bottom4, z-slice 1
+7. Nominal (i.e. no deviations)
+    - acq-bottom4, z-slice 2
+8. Low (75%) infill density
+    - acq-bottom4, z-slice 3
+
